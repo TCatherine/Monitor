@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Injection.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  ArgParse.cpp
-E:\Desktop\ТРСПО\lab2\Injection\ArgParse.cpp(4,23): warning C4018: '<': signed/unsigned mismatch
-  Injection.vcxproj -> E:\Desktop\ТРСПО\lab2\Debug\Monitor.exe
