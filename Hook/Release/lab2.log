@@ -1,0 +1,20 @@
+﻿  Hide.c
+E:\Desktop\ТРСПО\lab2\lab2\Hook.h(17,33): warning C4081: expected 'newline'; found ';'
+  Monitor.c
+E:\Desktop\ТРСПО\lab2\lab2\Hook.h(17,33): warning C4081: expected 'newline'; found ';'
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(20,33): warning C4133: 'function': incompatible types - from 'SYSTEMTIME *' to 'const char *'
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(56,69): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [39]'
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(56,28): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(56,74): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'LONG'
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(56,71): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(58,17): warning C4098: 'attach_statistic': 'void' function returning a value
+  dllmain.c
+E:\Desktop\ТРСПО\lab2\lab2\Hook.h(17,33): warning C4081: expected 'newline'; found ';'
+E:\Desktop\ТРСПО\lab2\lab2\dllmain.c(16,13): warning C4013: 'exit' undefined; assuming extern returning int
+E:\Desktop\ТРСПО\lab2\lab2\dllmain.c(43,29): warning C4013: 'attach_statistic' undefined; assuming extern returning int
+  Generating code
+  4 of 21 functions (19.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  lab2.vcxproj -> E:\Desktop\ТРСПО\lab2\Release\Hook.dll

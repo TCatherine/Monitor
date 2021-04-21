@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Injection.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Monitor.cpp
+E:\Desktop\ТРСПО\lab2\Injection\Monitor.cpp(144,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Desktop\ТРСПО\lab2\Injection\Monitor.cpp(13): warning C4172: returning address of local variable or temporary: path_lib
+  Injection.vcxproj -> E:\Desktop\ТРСПО\lab2\x64\Debug\Monitor.exe

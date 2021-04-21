@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Hook_x64.vcxproj, lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Hide.c
+E:\Desktop\ТРСПО\lab2\lab2\Hook.h(17,33): warning C4081: expected 'newline'; found ';'
+  Monitor.c
+E:\Desktop\ТРСПО\lab2\lab2\Hook.h(17,33): warning C4081: expected 'newline'; found ';'
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(24,50): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(59,69): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char [39]'
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(59,28): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(59,74): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'LONG'
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(59,71): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(60,58): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\Desktop\ТРСПО\lab2\lab2\Monitor.c(61,17): warning C4098: 'attach_statistic': 'void' function returning a value
+  Generating Code...
+  lab2.vcxproj -> E:\Desktop\ТРСПО\lab2\x64\Debug\Hook.dll
