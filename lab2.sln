@@ -3,40 +3,30 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hook", "lab2\lab2.vcxproj", "{D7655A66-D912-40D1-8710-AEC102D669A6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hook", "Hook\Hook.vcxproj", "{D7655A66-D912-40D1-8710-AEC102D669A6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Monitor", "Injection\Injection.vcxproj", "{12585382-9B55-4CF0-89FF-A7345370C556}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Monitor", "Monitor\Monitor.vcxproj", "{12585382-9B55-4CF0-89FF-A7345370C556}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Win32 = Debug|Win32
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
-		Release|Win32 = Release|Win32
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D7655A66-D912-40D1-8710-AEC102D669A6}.Debug|Win32.ActiveCfg = Debug|Win32
-		{D7655A66-D912-40D1-8710-AEC102D669A6}.Debug|Win32.Build.0 = Debug|Win32
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Debug|x64.ActiveCfg = Debug|x64
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Debug|x64.Build.0 = Debug|x64
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Debug|x86.ActiveCfg = Debug|Win32
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Debug|x86.Build.0 = Debug|Win32
-		{D7655A66-D912-40D1-8710-AEC102D669A6}.Release|Win32.ActiveCfg = Release|Win32
-		{D7655A66-D912-40D1-8710-AEC102D669A6}.Release|Win32.Build.0 = Release|Win32
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Release|x64.ActiveCfg = Release|x64
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Release|x64.Build.0 = Release|x64
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Release|x86.ActiveCfg = Release|Win32
 		{D7655A66-D912-40D1-8710-AEC102D669A6}.Release|x86.Build.0 = Release|Win32
-		{12585382-9B55-4CF0-89FF-A7345370C556}.Debug|Win32.ActiveCfg = Debug|Win32
-		{12585382-9B55-4CF0-89FF-A7345370C556}.Debug|Win32.Build.0 = Debug|Win32
 		{12585382-9B55-4CF0-89FF-A7345370C556}.Debug|x64.ActiveCfg = Debug|x64
 		{12585382-9B55-4CF0-89FF-A7345370C556}.Debug|x64.Build.0 = Debug|x64
 		{12585382-9B55-4CF0-89FF-A7345370C556}.Debug|x86.ActiveCfg = Debug|Win32
 		{12585382-9B55-4CF0-89FF-A7345370C556}.Debug|x86.Build.0 = Debug|Win32
-		{12585382-9B55-4CF0-89FF-A7345370C556}.Release|Win32.ActiveCfg = Release|Win32
-		{12585382-9B55-4CF0-89FF-A7345370C556}.Release|Win32.Build.0 = Release|Win32
 		{12585382-9B55-4CF0-89FF-A7345370C556}.Release|x64.ActiveCfg = Release|x64
 		{12585382-9B55-4CF0-89FF-A7345370C556}.Release|x64.Build.0 = Release|x64
 		{12585382-9B55-4CF0-89FF-A7345370C556}.Release|x86.ActiveCfg = Release|Win32
@@ -46,6 +36,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B07232C1-6D0A-42F3-A276-BF607D631BB4}
+		SolutionGuid = {F43D0323-62F6-4716-BD1A-3AD803B03BEE}
 	EndGlobalSection
 EndGlobal
